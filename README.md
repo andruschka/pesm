@@ -1,2 +1,2 @@
 # pesm
-A esm installer for the modern web.
+An esm installer for the modern web.
